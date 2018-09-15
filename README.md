@@ -16,4 +16,4 @@ module.exports={etherscanAK,infuraApiKey};
 
 基于web3js+React.js的以太坊钱包,基本功能齐全
 
-代码跑起来后的样子可见:http://193.112.157.22:3000/
+远程可见:http://39.108.79.234:3000/
